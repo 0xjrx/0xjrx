@@ -1,4 +1,3 @@
-# Hi there, I'm 0xjrx ! 👋
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=currently%3A+pretending+my+code+is+a+feature%2C+not+a+bug...;currently%3A+teaching+malware+to+play+nice...;currently%3A+obfuscating+my+life+choices...;currently%3A+telling+my+AV+it%E2%80%99s+a+false+positive...;currently%3A+bypassing+EDRs+(and+my+sleep+schedule)...)](https://git.io/typing-svg)
 
 ## My Personal GitHub Stats
